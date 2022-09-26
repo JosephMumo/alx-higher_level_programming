@@ -1,1 +1,1 @@
-This repository was created to document my python programming path
+This repository was created to document my python programming learning path
