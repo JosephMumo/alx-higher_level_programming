@@ -1,2 +1,2 @@
---this script lists all the databases
+-- This script lists all the databases
 SHOW DATABASES;
